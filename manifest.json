@@ -1,17 +1,18 @@
 {
-    "lang":"es-SV",
+    "lang": "es-SV",
     "name": "Conversor de temperaturas",
     "show_name": "Conversor",
-    "descrption": "Un convertidor de unidades de temperatura Celsius, Fahrenheitt y Kelvin",
+    "description": "Un convertidor de unidades de temperatura: Celsius, Fahrenheit y Kelvin",
     "start_url": "./",
     "background_color": "#2F3D58",
     "theme_color": "#2F3D58",
     "orientation": "any",
-    "display":"standalone",
+    "display": "standalone",
     "icons": [
         { 
             "src":"./media/icons/icon512.png",
-            "sizes": "512x52"
+            "sizes":"512x512"
+            
         }
         
     ],
